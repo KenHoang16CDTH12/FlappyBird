@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kenhoang/Documents/Project Game/Game Project/Flappy Bird/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3094104f4bf57f808f5d0156814209b5acd7a8cf">
+        <dex dex="/home/kenhoang/Documents/Project Game/Game Project/Flappy Bird/android/build/intermediates/pre-dexed/debug/core-1.0_2ba4e7060f41ebff480f65be008391963f368391.jar" />
+    </item>
+
+</items>
